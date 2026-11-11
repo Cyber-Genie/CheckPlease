@@ -1,5 +1,5 @@
 print("------------------")
-print("Welcome to Payup")
+print("Welcome to CheckPlease")
 print("------------------")
 print()
 print("Please answer the following questions to add bill information")
